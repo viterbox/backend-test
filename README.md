@@ -42,8 +42,8 @@ Here's what you should strive for:
 
 ### Basic Requirements
 
-  - Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework) or DotNetCore Framework (C#)
-  - Use any persistence store. NoSQL DB is preferred.
+  - Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework)
+  - Use any persistence store.
   - Write concise and clear commit messages.
   - Write clear **documentation** on how it has been designed and how to run the code.
 
